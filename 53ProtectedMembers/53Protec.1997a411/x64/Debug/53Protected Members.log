@@ -1,0 +1,8 @@
+﻿  Daughter.cpp
+C:\Users\atind\source\repos\53Protected Members\Daughter.cpp(7,10): warning C4552: '+': result of expression not used
+C:\Users\atind\source\repos\53Protected Members\Daughter.cpp(9,2): error C2248: 'Mother::privatev': cannot access private member declared in class 'Mother'
+      C:\Users\atind\source\repos\53Protected Members\Mother.h(13,7):
+      see declaration of 'Mother::privatev'
+      C:\Users\atind\source\repos\53Protected Members\Mother.h(6,7):
+      see declaration of 'Mother'
+  
